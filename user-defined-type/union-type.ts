@@ -8,3 +8,4 @@ function numberinfo(userName : string | number | boolean){
 }
 numberinfo(1014);
 numberinfo("moin");
+numberinfo("moin");
